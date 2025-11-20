@@ -1,0 +1,2 @@
+google_calendar3::hyper_rustls::HttpsConnector<google_calendar3::hyper::client::HttpConnector>
+google_calendar3::hyper_rustls::HttpsConnector<google_calendar3::hyper::client::HttpConnector>: hyper_util::client::legacy::connect::Connect

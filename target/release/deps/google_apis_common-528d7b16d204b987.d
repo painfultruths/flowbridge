@@ -1,0 +1,11 @@
+/home/gandalf/claude/target/release/deps/google_apis_common-528d7b16d204b987.d: /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/lib.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/auth.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/field_mask.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/serde.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/url.rs
+
+/home/gandalf/claude/target/release/deps/libgoogle_apis_common-528d7b16d204b987.rlib: /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/lib.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/auth.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/field_mask.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/serde.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/url.rs
+
+/home/gandalf/claude/target/release/deps/libgoogle_apis_common-528d7b16d204b987.rmeta: /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/lib.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/auth.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/field_mask.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/serde.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/url.rs
+
+/home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/lib.rs:
+/home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/auth.rs:
+/home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/field_mask.rs:
+/home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/serde.rs:
+/home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/google-apis-common-7.0.0/src/url.rs:

@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/home/gandalf/claude/web/target/debug/build/mime_guess-e32f666e986c3aca/out/mime_types_generated.rs

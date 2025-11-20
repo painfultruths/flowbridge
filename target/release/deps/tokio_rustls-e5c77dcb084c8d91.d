@@ -1,0 +1,11 @@
+/home/gandalf/claude/target/release/deps/tokio_rustls-e5c77dcb084c8d91.d: /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/lib.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/client.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/common/mod.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/common/handshake.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/server.rs
+
+/home/gandalf/claude/target/release/deps/libtokio_rustls-e5c77dcb084c8d91.rlib: /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/lib.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/client.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/common/mod.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/common/handshake.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/server.rs
+
+/home/gandalf/claude/target/release/deps/libtokio_rustls-e5c77dcb084c8d91.rmeta: /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/lib.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/client.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/common/mod.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/common/handshake.rs /home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/server.rs
+
+/home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/lib.rs:
+/home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/client.rs:
+/home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/common/mod.rs:
+/home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/common/handshake.rs:
+/home/gandalf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.25.0/src/server.rs:
